@@ -17,7 +17,7 @@
 <!-- ?About -->
 <div>
     <div align="center">
-        <img src="./resources/sidebar2" alt="Fun GIF" width="600" style="border-radius: 12px;">
+        <img src="https://github.com/code-shams/code-shams/blob/main/resources/sidebar2.gif" alt="Fun GIF" width="600" style="border-radius: 12px;">
     </div>
     <h3>
         <img src="./resources/source (2).gif" width="32" alt="icon"> About Me
