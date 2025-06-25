@@ -111,6 +111,9 @@
     </p>
 <br>
 </div>
+
+---
+
 <!-- ?Stats Section -->
 <table>
   <tr>
@@ -129,7 +132,7 @@
       </details>
       <br />
       <h3>📜 Code & Philosophy</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;" alt="Dev Quote" />
     </td>
     <!-- Right: Fun GIF -->
     <td valign="top" width="45%" align="center">
@@ -138,3 +141,28 @@
   </tr>
 </table>
 
+---
+
+<br>
+<!-- ?Social Section -->
+
+## <img src="./resources/giphy (2).gif" width="35"> Find me on
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/code-shams" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/color/40/linkedin-circled--v1.png" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dev.maksudur.rahman@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/color/40/gmail-new.png" alt="Email" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/code.shams" title="Facebook">
+    <img src="https://img.icons8.com/color/40/facebook-new.png" alt="Facebook" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/code-shams" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="40" />
+  </a>
+  
+</div>
