@@ -143,7 +143,6 @@
 
 ---
 
-<br>
 <!-- ?Social Section -->
 
 ## <img src="./resources/giphy (2).gif" width="35"> Find me on
