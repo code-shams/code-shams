@@ -36,7 +36,7 @@
 <!-- ?Tech stack -->
 <div>
     <h2>
-        <img src="./resources/giphy (1).gif" width="40" alt="icon"> Tech Stack
+        <img src="./resources/giphy (1).gif" width="40" alt="icon"> Technology Stack
     </h2>
     <!-- *Frontend Techs -->
     <b>
@@ -68,7 +68,7 @@
     </p>
     <!-- *Backend Techs -->
     <b>
-        <img width="30" height="30" src="https://img.icons8.com/color/30/server.png" alt="server"/> Back-end Technologies
+        🖧 Back-end Technologies
     </b>
     <br>
     <br>
@@ -111,3 +111,30 @@
     </p>
 <br>
 </div>
+<!-- ?Stats Section -->
+<table>
+  <tr>
+    <!-- Left: Stats Section with toggle -->
+    <td valign="top" width="55%">
+      <details>
+        <summary>
+          <strong><img src="./resources/source.gif" width="22" style="vertical-align:middle;"> GitHub Stats</strong>
+        </summary>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=code-shams&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+        <br />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=code-shams&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shams&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+      </details>
+      <br />
+      <h3>📜 Code & Philosophy</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+    </td>
+    <!-- Right: Fun GIF -->
+    <td valign="top" width="45%" align="center">
+      <img src="./resources/sidebar.gif" alt="Fun GIF" width="100%" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
+
