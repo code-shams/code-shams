@@ -121,7 +121,7 @@
     <td valign="top" width="55%">
       <details>
         <summary>
-          <strong><img src="./resources/source.gif" width="22" style="vertical-align:middle;"> GitHub Stats</strong>
+          <h3><strong><img src="./resources/source.gif" width="22" style="vertical-align:middle;"> GitHub Stats</strong></h3>
         </summary>
         <br />
         <img src="https://github-readme-stats.vercel.app/api?username=code-shams&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
