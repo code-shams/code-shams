@@ -63,8 +63,6 @@
         &nbsp&nbsp
         <img src="https://framerusercontent.com/images/p82ZbUPQdsB3LwOnllbkrrIIH5Y.png" alt="Framer Motion" width="35" title="Framer Motion" />
         &nbsp&nbsp
-        <img src="https://icongr.am/devicon/chrome-original.svg?size=35&color=currentColor" alt="Chrome Devtools" width="35" title="Chrome Devtools" />
-        &nbsp&nbsp
     </p>
     <!-- *Backend Techs -->
     <b>
