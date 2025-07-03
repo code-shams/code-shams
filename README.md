@@ -116,7 +116,7 @@
 <table>
   <tr>
     <!-- Left: Stats Section with toggle -->
-    <td valign="top" width="55%">
+    <td valign="top" width="100%">
       <details>
         <summary>
           <h3><strong><img src="./resources/source.gif" width="22" style="vertical-align:middle;"> GitHub Stats</strong></h3>
@@ -124,15 +124,22 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api?username=code-shams&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
         <br />
+        <br />
         <img src="https://nirzak-streak-stats.vercel.app/?user=code-shams&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shams&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shams&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+        <br />
       </details>
       <br />
       <h3>📜 Code & Philosophy</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;" alt="Dev Quote" />
       <br />
-      <img src="./resources/sidebar.gif" alt="Fun GIF" width="100%" style="border-radius: 12px;" />
+      <br />
+    <br />
+    <div align="center">
+        <img src="./resources/sidebar.gif" alt="Fun GIF" width="60%" style="border-radius: 12px;" />
+    </div>
     </td>
     <!-- Right: Fun GIF -->
 <!--     <td valign="top" width="45%" align="center">
