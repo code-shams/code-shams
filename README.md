@@ -131,11 +131,13 @@
       <br />
       <h3>📜 Code & Philosophy</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;" alt="Dev Quote" />
-    </td>
-    <!-- Right: Fun GIF -->
-    <td valign="top" width="45%" align="center">
+      <br />
       <img src="./resources/sidebar.gif" alt="Fun GIF" width="100%" style="border-radius: 12px;" />
     </td>
+    <!-- Right: Fun GIF -->
+<!--     <td valign="top" width="45%" align="center">
+      <img src="./resources/sidebar.gif" alt="Fun GIF" width="100%" style="border-radius: 12px;" />
+    </td> -->
   </tr>
 </table>
 
