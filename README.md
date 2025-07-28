@@ -1,4 +1,4 @@
-<img src="./resources/banner.png" alt="" width="">
+<img src="https://i.ibb.co/7xrqKxFV/banner.webp" alt="" width="">
 
 <!--? Introduction -->
 
@@ -17,8 +17,7 @@
 <!-- ?About -->
 <div>
     <div align="center">
-        <img src="./resources/sidebar2.gif" alt="Fun GIF" width="500" style="border-radius: 12px;">
-        <!-- <img src="https://github.com/code-shams/code-shams/blob/main/resources/sidebar2.gif" alt="Fun GIF" width="500" style="border-radius: 12px;"> -->
+        <img src="https://i.ibb.co/VYmn9XGt/sidebar2-ezgif-com-optimize-1.gif" alt="Fun GIF" width="500" style="border-radius: 12px;">
     </div>
     <h2>
         <img src="./resources/source (2).gif" width="32" alt="icon"> About Me
@@ -115,48 +114,32 @@
 <!-- ?Stats Section -->
 <h3 align="left"><strong><img src="./resources/source.gif" width="22"> GitHub Stats</strong></h3>
 
-<table>
-<tr>
-<td>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=code-shams&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</td>
-<td>
 <img src="https://nirzak-streak-stats.vercel.app/?user=code-shams&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shams&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img src="./resources/sidebar.gif" alt="Fun GIF" width="60%" />
-</p>
-
----
 <!-- ?Social Section -->
 
 ## <img src="./resources/giphy (2).gif" width="35"> Find me on
 
 <div align="left">
   <a href="https://www.linkedin.com/in/code-shams" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/color/40/linkedin-circled--v1.png" alt="LinkedIn" width="40" />
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dev.maksudur.rahman@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/color/40/gmail-new.png" alt="Email" width="35" />
+    <img src="https://img.icons8.com/3d-fluency/94/gmail-logo.png" alt="Email" width="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/code.shams" title="Facebook">
-    <img src="https://img.icons8.com/color/40/facebook-new.png" alt="Facebook" width="40" />
+    <img src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="Facebook" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/code-shams" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="40" />
+    <img src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" width="40" />
   </a>
 </div>
 <br/>
 <h3>📜 Code & Philosophy</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
